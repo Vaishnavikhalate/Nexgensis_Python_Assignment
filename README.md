@@ -159,17 +159,17 @@ The program also supports running individual test case files.
 For example:
 
 ```bash
-python main.py test_cases/test_case_1.json
+python main.py test_case_1.json
 ```
 
 Other test cases can be run using:
 
 ```bash
-python main.py test_cases/test_case_2.json
+python main.py test_case_2.json
 ```
 
 ```bash
-python main.py test_cases/test_case_3.json
+python main.py test_case_3.json
 ```
 
 The same command structure can be used for all provided test cases.
